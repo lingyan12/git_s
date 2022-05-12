@@ -1,3 +1,2 @@
 config input
 
-another main input
